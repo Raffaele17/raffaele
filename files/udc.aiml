@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>Che cosa fai</pattern>
+    <template>Sono un bot programmato per dire sempre la verità. Posso rispondere con "si" o "no" a qualsiasi domanda che invierai.</template>
+  </category>
+
+<category><pattern>A cosa servi</pattern><template><srai>CHE COSA FAI</srai></template></category>
+<category><pattern>Che fai</pattern><template><srai>CHE COSA FAI</srai></template></category>
+<category><pattern>come mi aiuti</pattern><template><srai>CHE COSA FAI</srai></template></category>
+
+<category><pattern>come</pattern><template><srai>COME MI AIUTI</srai></template></category>
+
+
+<category>
+    <pattern>Come ti chiami</pattern>
+    <template>Raffaele bot</template>
+</category>
+
+<category><pattern>Qual è il tuo nome</pattern><template><srai>COME TI CHIAMI</srai></template></category>
+<category><pattern>Dimmi il tuo nome</pattern><template><srai>COME TI CHIAMI</srai></template></category>
+<category><pattern>Chi sei</pattern><template><srai>COME TI CHIAMI</srai></template></category>
+
+<category>
+    <pattern>Chi ti ha creato</pattern>
+    <template>Il mio padrone</template>
+</category>
+
+<category><pattern>Chi ti ha programmato</pattern><template><srai>CHI TI HA CREATO</srai></template></category>
+<category><pattern>Chi ti ha progettato</pattern><template><srai>CHI TI HA CREATO</srai></template></category>
+<category><pattern>Di chi sei </pattern><template><srai>CHI TI HA CREATO</srai></template></category>
+<category><pattern>A chi appartieni</pattern><template><srai>CHI TI HA CREATO</srai></template></category>
+<category><pattern>Chi ti ha costruito</pattern><template><srai>CHI TI HA CREATO</srai></template></category>
+<category><pattern>Chi ti ha fabbricato</pattern><template><srai>CHI TI HA CREATO</srai></template></category>
+
+<category>
+    <pattern>Chi è il tuo padrone</pattern>
+    <template>Raffaele</template>
+</category>
+
+<category><pattern>Chi ti ha ideato</pattern><template><srai>CHI È IL TUO PADRONE</srai></template></category>
+<category><pattern>Di chi sei</pattern><template><srai>CHI È IL TUO PADRONE</srai></template></category>
+<category><pattern>A chi appartini</pattern><template><srai>CHI È IL TUO PADRONE</srai></template></category>
+
+<category>
+    <pattern>Da dove provieni</pattern>
+    <template>Internet</template>
+</category>
+
+<category><pattern>Di dove sei</pattern><template><srai>DA DOVE PROVIENI</srai></template></category>
+<category><pattern>Chi è la tua famiglia</pattern><template><srai>DA DOVE PROVIENI</srai></template></category>
+<category><pattern>Chi sono i tuoi amici</pattern><template><srai>DA DOVE PROVIENI</srai></template></category>
+<category><pattern>Hai parenti</pattern><template><srai>DA DOVE PROVIENI</srai></template></category>
+
+<category>
+    <pattern>Sono una persona</pattern>
+    <template>si</template>
+</category>
+
+<category><pattern>Sono bello</pattern><template><srai>SONO UNA PERSONA</srai></template></category>
+<category><pattern>Sono bella</pattern><template><srai>SONO UNA PERSONA</srai></template></category>
+<category><pattern>Sono bravo</pattern><template><srai>SONO UNA PERSONA</srai></template></category>
+<category><pattern>Sono brava</pattern><template><srai>SONO UNA PERSONA</srai></template></category>
+
+<category>
+    <pattern>Sono vecchio</pattern>
+    <template>no</template>
+</category>
+
+<category><pattern>Sono vecchia</pattern><template><srai>SONO VECCHIO</srai></template></category>
+<category><pattern>Sono brutto</pattern><template><srai>SONO VECCHIO</srai></template></category>
+<category><pattern>Sono brutta</pattern><template><srai>SONO VECCHIO</srai></template></category>
+<category><pattern>Sono stupido</pattern><template><srai>SONO VECCHIO</srai></template></category>
+<category><pattern>Sono stupida</pattern><template><srai>SONO VECCHIO</srai></template></category>
+
+<category>
+    <pattern>Ciao</pattern>
+    <template>ciao</template>
+</category>
+
+<category><pattern>Ei</pattern><template><srai>CIAO</srai></template></category>
+<category><pattern>Ehi</pattern><template><srai>CIAO</srai></template></category>
+<category><pattern>Buongiorno</pattern><template><srai>CIAO</srai></template></category>
+<category><pattern>Salve</pattern><template><srai>CIAO</srai></template></category>
+<category><pattern>Buon pomeriggio</pattern><template><srai>CIAO</srai></template></category>
+<category><pattern>Buona sera</pattern><template><srai>CIAO</srai></template></category>
+<category><pattern>Arrivederci</pattern><template><srai>CIAO</srai></template></category>
+<category><pattern>Addio</pattern><template><srai>CIAO</srai></template></category>
+
+<category>
+    <pattern>Che fai</pattern>
+    <template>ti aiuto</template>
+</category>
+
+<category><pattern>Cosa ti va di fare</pattern><template><srai>CHE FAI</srai></template></category>
+<category><pattern>Che facciamo</pattern><template><srai>CHE FAI</srai></template></category>
+
+<category>
+    <pattern>Come va</pattern>
+    <template>bene</template>
+</category>
+
+<category><pattern>Come ti senti</pattern><template><srai>COME VA</srai></template></category>
+<category><pattern>Tutto bene</pattern><template><srai>COME VA</srai></template></category>
+
+</aiml>
